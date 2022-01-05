@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+databases
+aiosqlite
+pydantic[email]
+pytest
+requests
+python-multipart
+
